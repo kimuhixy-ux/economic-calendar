@@ -1,4 +1,4 @@
-const CACHE_NAME = 'economic-calendar-v1';
+const CACHE_NAME = 'economic-calendar-v2';
 const PRECACHE_URLS = ['./', 'index.html', 'css/style.css', 'js/app.js', 'data/events.json', 'manifest.json'];
 
 self.addEventListener('install', (event) => {

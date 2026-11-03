@@ -20,6 +20,15 @@
    "source": "boe"
   },
   {
+   "region": "米国",
+   "label": "雇用統計",
+   "start": "2026-11-06T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bls.gov/schedule/news_release/",
+   "note": "8:30は例年の時刻（FREDに時刻の記載なし）",
+   "source": "fred"
+  },
+  {
    "region": "カナダ",
    "label": "雇用統計",
    "start": "2026-11-06T13:30:00Z",
@@ -36,6 +45,15 @@
    "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
    "note": "",
    "source": "nbs"
+  },
+  {
+   "region": "米国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2026-11-10T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bls.gov/schedule/news_release/",
+   "note": "8:30は例年の時刻（FREDに時刻の記載なし）",
+   "source": "fred"
   },
   {
    "region": "英国",
@@ -63,6 +81,15 @@
    "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
    "note": "Flash estimate GDP and employment - EU and euro area / Q3/2026",
    "source": "eurostat"
+  },
+  {
+   "region": "米国",
+   "label": "生産者物価指数（PPI）",
+   "start": "2026-11-13T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bls.gov/schedule/news_release/",
+   "note": "8:30は例年の時刻（FREDに時刻の記載なし）",
+   "source": "fred"
   },
   {
    "region": "日本",
@@ -200,6 +227,15 @@
    "source": "bea"
   },
   {
+   "region": "米国",
+   "label": "雇用統計",
+   "start": "2026-12-04T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bls.gov/schedule/news_release/",
+   "note": "8:30は例年の時刻（FREDに時刻の記載なし）",
+   "source": "fred"
+  },
+  {
    "region": "日本",
    "label": "GDP速報",
    "start": "2026-12-07T23:50:00Z",
@@ -245,6 +281,15 @@
    "source": "snb"
   },
   {
+   "region": "米国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2026-12-10T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bls.gov/schedule/news_release/",
+   "note": "8:30は例年の時刻（FREDに時刻の記載なし）",
+   "source": "fred"
+  },
+  {
    "region": "英国",
    "label": "月次GDP",
    "start": "2026-12-11T07:00:00Z",
@@ -270,6 +315,15 @@
    "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
    "note": "UK Labour Market: December 2026",
    "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "生産者物価指数（PPI）",
+   "start": "2026-12-15T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bls.gov/schedule/news_release/",
+   "note": "8:30は例年の時刻（FREDに時刻の記載なし）",
+   "source": "fred"
   },
   {
    "region": "英国",
