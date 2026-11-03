@@ -1,0 +1,1886 @@
+{
+ "failedSources": [],
+ "events": [
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2026-11-04T10:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / October 2026",
+   "source": "eurostat"
+  },
+  {
+   "region": "英国",
+   "label": "BoE 政策金利発表",
+   "start": "2026-11-05T12:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+   "note": "12:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boe"
+  },
+  {
+   "region": "カナダ",
+   "label": "雇用統計",
+   "start": "2026-11-06T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www150.statcan.gc.ca/n1/dai-quo/cal2-eng.htm",
+   "note": "Labour Force Survey, October 2026",
+   "source": "statcan"
+  },
+  {
+   "region": "中国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2026-11-09T01:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+   "note": "",
+   "source": "nbs"
+  },
+  {
+   "region": "英国",
+   "label": "GDP速報",
+   "start": "2026-11-12T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP first quarterly estimate, UK: July to September 2026",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2026-11-12T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: September 2026",
+   "source": "ons"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "GDP速報",
+   "start": "2026-11-13T10:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate GDP and employment - EU and euro area / Q3/2026",
+   "source": "eurostat"
+  },
+  {
+   "region": "日本",
+   "label": "GDP速報",
+   "start": "2026-11-15T23:50:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.esri.cao.go.jp/jp/sna/kouhyou/kouhyou_top.html",
+   "note": "2026年7-9月期（1次速報）",
+   "source": "japan-gdp"
+  },
+  {
+   "region": "中国",
+   "label": "主要経済指標（GDP・工業生産・小売）",
+   "start": "2026-11-16T02:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+   "note": "",
+   "source": "nbs"
+  },
+  {
+   "region": "英国",
+   "label": "雇用統計",
+   "start": "2026-11-17T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "UK Labour Market: November 2026",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2026-11-17T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "豪州",
+   "label": "賃金指数",
+   "start": "2026-11-18T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202611",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2026-11-18T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: October 2026",
+   "source": "ons"
+  },
+  {
+   "region": "豪州",
+   "label": "雇用統計",
+   "start": "2026-11-19T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202611",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "日本",
+   "label": "全国消費者物価指数（CPI）",
+   "start": "2026-11-19T23:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.e-stat.go.jp/release-calendar/statistics/00200573",
+   "note": "2026年10月分",
+   "source": "japan-cpi"
+  },
+  {
+   "region": "豪州",
+   "label": "消費者物価指数（CPI）",
+   "start": "2026-11-25T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202611",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2026-11-25T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2026-11-25T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, October 2026",
+   "source": "bea"
+  },
+  {
+   "region": "中国",
+   "label": "製造業PMI",
+   "start": "2026-11-30T01:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+   "note": "",
+   "source": "nbs"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2026-12-01T10:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / November 2026",
+   "source": "eurostat"
+  },
+  {
+   "region": "豪州",
+   "label": "GDP",
+   "start": "2026-12-02T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202612",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2026-12-02T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP by County and Personal Income by County, 2025",
+   "source": "bea"
+  },
+  {
+   "region": "日本",
+   "label": "GDP速報",
+   "start": "2026-12-07T23:50:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.esri.cao.go.jp/jp/sna/kouhyou/kouhyou_top.html",
+   "note": "2026年7-9月期（2次速報）",
+   "source": "japan-gdp"
+  },
+  {
+   "region": "豪州",
+   "label": "RBA 政策金利発表",
+   "start": "2026-12-08T03:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.rba.gov.au/schedules-events/calendar/",
+   "note": "",
+   "source": "rba"
+  },
+  {
+   "region": "中国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2026-12-09T01:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+   "note": "",
+   "source": "nbs"
+  },
+  {
+   "region": "米国",
+   "label": "FOMC 政策金利発表",
+   "start": "2026-12-09T19:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": "経済見通し（SEP）あり。14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "fomc"
+  },
+  {
+   "region": "スイス",
+   "label": "SNB 政策金利発表",
+   "start": "2026-12-10T08:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.snb.ch/en/services-events/digital-services/event-schedule",
+   "note": "",
+   "source": "snb"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2026-12-11T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: October 2026",
+   "source": "ons"
+  },
+  {
+   "region": "中国",
+   "label": "主要経済指標（GDP・工業生産・小売）",
+   "start": "2026-12-15T02:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+   "note": "",
+   "source": "nbs"
+  },
+  {
+   "region": "英国",
+   "label": "雇用統計",
+   "start": "2026-12-15T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "UK Labour Market: December 2026",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2026-12-16T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: November 2026",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2026-12-16T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "豪州",
+   "label": "雇用統計",
+   "start": "2026-12-17T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202612",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "英国",
+   "label": "BoE 政策金利発表",
+   "start": "2026-12-17T12:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+   "note": "12:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boe"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2026-12-17T13:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "日本",
+   "label": "全国消費者物価指数（CPI）",
+   "start": "2026-12-17T23:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.e-stat.go.jp/release-calendar/statistics/00200573",
+   "note": "2026年11月分",
+   "source": "japan-cpi"
+  },
+  {
+   "region": "日本",
+   "label": "日銀 金融政策決定会合（結果公表）",
+   "start": "2026-12-18",
+   "allDay": true,
+   "sourceUrl": "https://www.boj.or.jp/mopo/mpmsche_minu/index.htm",
+   "note": "公表時刻は会合ごとに異なるため終日予定",
+   "source": "boj"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2026-12-23T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 3rd Quarter 2026",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2026-12-23T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, November 2026",
+   "source": "bea"
+  },
+  {
+   "region": "中国",
+   "label": "製造業PMI",
+   "start": "2026-12-31T01:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/202512/t20251226_1962154.html",
+   "note": "",
+   "source": "nbs"
+  },
+  {
+   "region": "豪州",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-01-06T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202701",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-01-06T10:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / December 2026",
+   "source": "eurostat"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-01-15T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: November 2026",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-01-15T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-01-20T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: December 2026",
+   "source": "ons"
+  },
+  {
+   "region": "豪州",
+   "label": "雇用統計",
+   "start": "2027-01-21T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202701",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "日本",
+   "label": "全国消費者物価指数（CPI）",
+   "start": "2027-01-21T23:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.e-stat.go.jp/release-calendar/statistics/00200573",
+   "note": "2026年12月分",
+   "source": "japan-cpi"
+  },
+  {
+   "region": "日本",
+   "label": "日銀 金融政策決定会合（結果公表）",
+   "start": "2027-01-22",
+   "allDay": true,
+   "sourceUrl": "https://www.boj.or.jp/mopo/mpmsche_minu/index.htm",
+   "note": "公表時刻は会合ごとに異なるため終日予定",
+   "source": "boj"
+  },
+  {
+   "region": "豪州",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-01-27T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202701",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "カナダ",
+   "label": "BoC 政策金利発表",
+   "start": "2027-01-27T14:45:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+   "note": "9:45は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boc"
+  },
+  {
+   "region": "米国",
+   "label": "FOMC 政策金利発表",
+   "start": "2027-01-27T19:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": "14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "fomc"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-01-28T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Advance Estimate), 4th Quarter and Year 2026",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-01-28T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, December 2026",
+   "source": "bea"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "GDP速報",
+   "start": "2027-01-29T10:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Preliminary flash estimate GDP - EU and euro area / Q4/2026",
+   "source": "eurostat"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-02-02T10:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / January 2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "英国",
+   "label": "BoE 政策金利発表",
+   "start": "2027-02-04T12:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+   "note": "12:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boe"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2027-02-04T13:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "豪州",
+   "label": "RBA 政策金利発表",
+   "start": "2027-02-09T03:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.rba.gov.au/schedules-events/calendar/",
+   "note": "",
+   "source": "rba"
+  },
+  {
+   "region": "英国",
+   "label": "GDP速報",
+   "start": "2027-02-12T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP first quarterly estimate, UK: October to December 2026 time series",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-02-12T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: December 2026",
+   "source": "ons"
+  },
+  {
+   "region": "日本",
+   "label": "GDP速報",
+   "start": "2027-02-14T23:50:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.esri.cao.go.jp/jp/sna/kouhyou/kouhyou_top.html",
+   "note": "2026年10-12月期（1次速報）",
+   "source": "japan-gdp"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "GDP速報",
+   "start": "2027-02-15T10:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate GDP and employment - EU and euro area / Q4/2026",
+   "source": "eurostat"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-02-17T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: January 2027",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-02-17T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "豪州",
+   "label": "雇用統計",
+   "start": "2027-02-18T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202702",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "日本",
+   "label": "全国消費者物価指数（CPI）",
+   "start": "2027-02-18T23:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.e-stat.go.jp/release-calendar/statistics/00200573",
+   "note": "2027年1月分",
+   "source": "japan-cpi"
+  },
+  {
+   "region": "豪州",
+   "label": "賃金指数",
+   "start": "2027-02-23T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202702",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "豪州",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-02-24T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202702",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-02-25T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Second Estimate), 4th Quarter and Year 2026",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-02-25T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, January 2027",
+   "source": "bea"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-03-02T10:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / February 2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "豪州",
+   "label": "GDP",
+   "start": "2027-03-03T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202703",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "カナダ",
+   "label": "BoC 政策金利発表",
+   "start": "2027-03-03T14:45:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+   "note": "9:45は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boc"
+  },
+  {
+   "region": "日本",
+   "label": "GDP速報",
+   "start": "2027-03-08T23:50:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.esri.cao.go.jp/jp/sna/kouhyou/kouhyou_top.html",
+   "note": "2026年10-12月期（2次速報）",
+   "source": "japan-gdp"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-03-11T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: January 2027",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-03-16T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "米国",
+   "label": "FOMC 政策金利発表",
+   "start": "2027-03-17T18:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": "経済見通し（SEP）あり。14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "fomc"
+  },
+  {
+   "region": "日本",
+   "label": "日銀 金融政策決定会合（結果公表）",
+   "start": "2027-03-18",
+   "allDay": true,
+   "sourceUrl": "https://www.boj.or.jp/mopo/mpmsche_minu/index.htm",
+   "note": "公表時刻は会合ごとに異なるため終日予定",
+   "source": "boj"
+  },
+  {
+   "region": "スイス",
+   "label": "SNB 政策金利発表",
+   "start": "2027-03-18T08:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.snb.ch/en/services-events/digital-services/event-schedule",
+   "note": "",
+   "source": "snb"
+  },
+  {
+   "region": "英国",
+   "label": "BoE 政策金利発表",
+   "start": "2027-03-18T12:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+   "note": "12:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boe"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2027-03-18T13:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "日本",
+   "label": "全国消費者物価指数（CPI）",
+   "start": "2027-03-18T23:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.e-stat.go.jp/release-calendar/statistics/00200573",
+   "note": "2027年2月分",
+   "source": "japan-cpi"
+  },
+  {
+   "region": "豪州",
+   "label": "RBA 政策金利発表",
+   "start": "2027-03-23T03:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.rba.gov.au/schedules-events/calendar/",
+   "note": "",
+   "source": "rba"
+  },
+  {
+   "region": "豪州",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-03-24T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202703",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-03-24T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: February 2027",
+   "source": "ons"
+  },
+  {
+   "region": "豪州",
+   "label": "雇用統計",
+   "start": "2027-03-25T00:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202703",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-03-31T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 4th Quarter and Year 2026",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-03-31T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, February 2027",
+   "source": "bea"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-04-01T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / March 2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-04-14T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: February 2027",
+   "source": "ons"
+  },
+  {
+   "region": "豪州",
+   "label": "雇用統計",
+   "start": "2027-04-15T01:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202704",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-04-16T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-04-21T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: March 2027",
+   "source": "ons"
+  },
+  {
+   "region": "日本",
+   "label": "日銀 金融政策決定会合（結果公表）",
+   "start": "2027-04-28",
+   "allDay": true,
+   "sourceUrl": "https://www.boj.or.jp/mopo/mpmsche_minu/index.htm",
+   "note": "公表時刻は会合ごとに異なるため終日予定",
+   "source": "boj"
+  },
+  {
+   "region": "豪州",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-04-28T01:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.abs.gov.au/release-calendar/future-releases/202704",
+   "note": "",
+   "source": "abs"
+  },
+  {
+   "region": "カナダ",
+   "label": "BoC 政策金利発表",
+   "start": "2027-04-28T13:45:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+   "note": "9:45は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boc"
+  },
+  {
+   "region": "米国",
+   "label": "FOMC 政策金利発表",
+   "start": "2027-04-28T18:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": "14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "fomc"
+  },
+  {
+   "region": "英国",
+   "label": "BoE 政策金利発表",
+   "start": "2027-04-29T11:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+   "note": "12:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boe"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2027-04-29T12:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-04-29T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Advance Estimate), 1st Quarter 2027",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-04-29T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, March 2027",
+   "source": "bea"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "GDP速報",
+   "start": "2027-04-30T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Preliminary flash estimate GDP - EU and euro area / Q1/2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-05-03T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / April 2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "豪州",
+   "label": "RBA 政策金利発表",
+   "start": "2027-05-04T04:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.rba.gov.au/schedules-events/calendar/",
+   "note": "",
+   "source": "rba"
+  },
+  {
+   "region": "英国",
+   "label": "GDP速報",
+   "start": "2027-05-14T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP first quarterly estimate, UK: January to March 2027 timeseries",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-05-14T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: March 2027",
+   "source": "ons"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "GDP速報",
+   "start": "2027-05-14T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate GDP and employment - EU and euro area / Q1/2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-05-14T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-05-19T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: April 2027",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-05-27T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Second Estimate) and Corporate Profits, 1st Quarter 2027",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-05-27T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, April 2027",
+   "source": "bea"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-06-01T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / May 2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "カナダ",
+   "label": "BoC 政策金利発表",
+   "start": "2027-06-02T13:45:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+   "note": "9:45は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boc"
+  },
+  {
+   "region": "米国",
+   "label": "FOMC 政策金利発表",
+   "start": "2027-06-09T18:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": "経済見通し（SEP）あり。14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "fomc"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2027-06-10T12:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "日本",
+   "label": "日銀 金融政策決定会合（結果公表）",
+   "start": "2027-06-11",
+   "allDay": true,
+   "sourceUrl": "https://www.boj.or.jp/mopo/mpmsche_minu/index.htm",
+   "note": "公表時刻は会合ごとに異なるため終日予定",
+   "source": "boj"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-06-16T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: May 2027",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-06-16T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-06-17T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: April 2027",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
+   "label": "BoE 政策金利発表",
+   "start": "2027-06-17T11:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+   "note": "12:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boe"
+  },
+  {
+   "region": "豪州",
+   "label": "RBA 政策金利発表",
+   "start": "2027-06-22T04:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.rba.gov.au/schedules-events/calendar/",
+   "note": "",
+   "source": "rba"
+  },
+  {
+   "region": "スイス",
+   "label": "SNB 政策金利発表",
+   "start": "2027-06-24T07:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.snb.ch/en/services-events/digital-services/event-schedule",
+   "note": "",
+   "source": "snb"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-06-25T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 1st Quarter 2027",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-06-25T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, May 2027",
+   "source": "bea"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-07-01T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / June 2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-07-14T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: May 2027",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-07-16T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-07-21T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: June 2027",
+   "source": "ons"
+  },
+  {
+   "region": "カナダ",
+   "label": "BoC 政策金利発表",
+   "start": "2027-07-21T13:45:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+   "note": "9:45は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boc"
+  },
+  {
+   "region": "日本",
+   "label": "日銀 金融政策決定会合（結果公表）",
+   "start": "2027-07-22",
+   "allDay": true,
+   "sourceUrl": "https://www.boj.or.jp/mopo/mpmsche_minu/index.htm",
+   "note": "公表時刻は会合ごとに異なるため終日予定",
+   "source": "boj"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2027-07-22T12:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "米国",
+   "label": "FOMC 政策金利発表",
+   "start": "2027-07-28T18:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": "14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "fomc"
+  },
+  {
+   "region": "英国",
+   "label": "BoE 政策金利発表",
+   "start": "2027-07-29T11:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+   "note": "12:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boe"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-07-29T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Advance Estimate), 2nd Quarter 2027",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-07-29T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, June 2027",
+   "source": "bea"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "GDP速報",
+   "start": "2027-07-30T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Preliminary flash estimate GDP - EU and euro area / Q2/2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-08-03T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / July 2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "豪州",
+   "label": "RBA 政策金利発表",
+   "start": "2027-08-10T04:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.rba.gov.au/schedules-events/calendar/",
+   "note": "",
+   "source": "rba"
+  },
+  {
+   "region": "英国",
+   "label": "GDP速報",
+   "start": "2027-08-13T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP first quarterly estimate, UK: April to June 2027",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-08-13T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: June 2027",
+   "source": "ons"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "GDP速報",
+   "start": "2027-08-13T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate GDP and employment - EU and euro area / Q2/2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-08-16T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-08-18T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: July 2027",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-08-25T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Second Estimate) and Corporate Profits, 2nd Quarter 2027",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-08-25T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, July 2027",
+   "source": "bea"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-09-01T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / August 2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "カナダ",
+   "label": "BoC 政策金利発表",
+   "start": "2027-09-08T13:45:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+   "note": "9:45は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boc"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2027-09-09T12:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-09-10T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: July 2027",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-09-15T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: August 2027",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "FOMC 政策金利発表",
+   "start": "2027-09-15T18:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": "経済見通し（SEP）あり。14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "fomc"
+  },
+  {
+   "region": "英国",
+   "label": "BoE 政策金利発表",
+   "start": "2027-09-16T11:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+   "note": "12:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boe"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-09-16T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "日本",
+   "label": "日銀 金融政策決定会合（結果公表）",
+   "start": "2027-09-22",
+   "allDay": true,
+   "sourceUrl": "https://www.boj.or.jp/mopo/mpmsche_minu/index.htm",
+   "note": "公表時刻は会合ごとに異なるため終日予定",
+   "source": "boj"
+  },
+  {
+   "region": "スイス",
+   "label": "SNB 政策金利発表",
+   "start": "2027-09-23T07:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.snb.ch/en/services-events/digital-services/event-schedule",
+   "note": "",
+   "source": "snb"
+  },
+  {
+   "region": "豪州",
+   "label": "RBA 政策金利発表",
+   "start": "2027-09-28T04:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.rba.gov.au/schedules-events/calendar/",
+   "note": "",
+   "source": "rba"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-09-30T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2027\\; State Consumer Spending, 2026",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-09-30T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, August 2027",
+   "source": "bea"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-10-01T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / September 2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-10-14T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: August 2027",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-10-15T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-10-20T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: September 2027",
+   "source": "ons"
+  },
+  {
+   "region": "カナダ",
+   "label": "BoC 政策金利発表",
+   "start": "2027-10-27T13:45:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+   "note": "9:45は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boc"
+  },
+  {
+   "region": "米国",
+   "label": "FOMC 政策金利発表",
+   "start": "2027-10-27T18:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": "14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "fomc"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2027-10-28T12:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-10-28T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Advance Estimate), 3rd Quarter 2027",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-10-28T12:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, September 2027",
+   "source": "bea"
+  },
+  {
+   "region": "日本",
+   "label": "日銀 金融政策決定会合（結果公表）",
+   "start": "2027-10-29",
+   "allDay": true,
+   "sourceUrl": "https://www.boj.or.jp/mopo/mpmsche_minu/index.htm",
+   "note": "公表時刻は会合ごとに異なるため終日予定",
+   "source": "boj"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "GDP速報",
+   "start": "2027-10-29T09:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Preliminary flash estimate GDP - EU and euro area / Q3/2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "豪州",
+   "label": "RBA 政策金利発表",
+   "start": "2027-11-02T03:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.rba.gov.au/schedules-events/calendar/",
+   "note": "",
+   "source": "rba"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "HICP速報（消費者物価）",
+   "start": "2027-11-04T10:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate inflation euro area / October 2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "英国",
+   "label": "BoE 政策金利発表",
+   "start": "2027-11-04T12:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+   "note": "12:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boe"
+  },
+  {
+   "region": "英国",
+   "label": "GDP速報",
+   "start": "2027-11-12T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP first quarterly estimate, UK: July to September 2027",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-11-12T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: September 2027",
+   "source": "ons"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "GDP速報",
+   "start": "2027-11-15T10:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://ec.europa.eu/eurostat/news/release-calendar",
+   "note": "Flash estimate GDP and employment - EU and euro area / Q3/2027",
+   "source": "eurostat"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-11-16T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-11-17T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: October 2027",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-11-24T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2027",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-11-24T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, October 2027",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-12-01T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Gross Domestic Product by County and Personal Income by County, 2026",
+   "source": "bea"
+  },
+  {
+   "region": "カナダ",
+   "label": "BoC 政策金利発表",
+   "start": "2027-12-08T14:45:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
+   "note": "9:45は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boc"
+  },
+  {
+   "region": "米国",
+   "label": "FOMC 政策金利発表",
+   "start": "2027-12-08T19:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": "経済見通し（SEP）あり。14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "fomc"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2027-12-10T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: October 2027",
+   "source": "ons"
+  },
+  {
+   "region": "豪州",
+   "label": "RBA 政策金利発表",
+   "start": "2027-12-14T03:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.rba.gov.au/schedules-events/calendar/",
+   "note": "",
+   "source": "rba"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2027-12-15T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: November 2027",
+   "source": "ons"
+  },
+  {
+   "region": "米国",
+   "label": "小売売上高",
+   "start": "2027-12-15T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.census.gov/economic-indicators/calendar-listview.html",
+   "note": "",
+   "source": "census"
+  },
+  {
+   "region": "スイス",
+   "label": "SNB 政策金利発表",
+   "start": "2027-12-16T08:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.snb.ch/en/services-events/digital-services/event-schedule",
+   "note": "",
+   "source": "snb"
+  },
+  {
+   "region": "英国",
+   "label": "BoE 政策金利発表",
+   "start": "2027-12-16T12:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates",
+   "note": "12:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "boe"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2027-12-16T13:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "日本",
+   "label": "日銀 金融政策決定会合（結果公表）",
+   "start": "2027-12-17",
+   "allDay": true,
+   "sourceUrl": "https://www.boj.or.jp/mopo/mpmsche_minu/index.htm",
+   "note": "公表時刻は会合ごとに異なるため終日予定",
+   "source": "boj"
+  },
+  {
+   "region": "米国",
+   "label": "GDP",
+   "start": "2027-12-22T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 3rd Quarter 2027",
+   "source": "bea"
+  },
+  {
+   "region": "米国",
+   "label": "個人所得・支出（PCE）",
+   "start": "2027-12-22T13:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics",
+   "note": "Personal Income and Outlays, November 2027",
+   "source": "bea"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2028-01-14T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: November 2027",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2028-01-19T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: December 2027",
+   "source": "ons"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2028-02-03T13:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "英国",
+   "label": "月次GDP",
+   "start": "2028-02-17T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "GDP monthly estimate, UK: December 2027",
+   "source": "ons"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2028-03-23T13:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2028-04-19T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: March 2028",
+   "source": "ons"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2028-05-04T12:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2028-06-08T12:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2028-06-21T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: May 2028",
+   "source": "ons"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2028-07-20T12:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2028-08-16T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: July 2028",
+   "source": "ons"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2028-09-07T12:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2028-10-12T12:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2028-10-18T06:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: September 2028",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2028-11-15T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: October 2028",
+   "source": "ons"
+  },
+  {
+   "region": "ユーロ圏",
+   "label": "ECB 政策金利発表",
+   "start": "2028-12-07T13:15:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "note": "14:15は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "ecb"
+  },
+  {
+   "region": "英国",
+   "label": "消費者物価指数（CPI）",
+   "start": "2029-01-17T07:30:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "Consumer price inflation, UK: December 2028",
+   "source": "ons"
+  }
+ ]
+}

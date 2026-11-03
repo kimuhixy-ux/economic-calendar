@@ -1,0 +1,31 @@
+name: 予定の更新
+on:
+  schedule:
+    # 毎日 4:00 JST（cron は UTC で指定する）
+    - cron: '0 19 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: 予定を集める
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python3 scripts/collect-events.py
+      - name: 変更があれば保存する
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898283+github-actions[bot]@users.noreply.github.com'
+          git add data/events.json calendar.ics
+          # 端末に古い版が残らないよう、データ更新のたびにキャッシュ名の番号を上げる
+          if ! git diff --cached --quiet; then
+            version=$(sed -nE "s/.*economic-calendar-v([0-9]+).*/\1/p" sw.js)
+            sed -i "s/economic-calendar-v${version}/economic-calendar-v$((version + 1))/" sw.js
+            git add sw.js
+            git commit -m '予定を更新'
+            git push
+          fi

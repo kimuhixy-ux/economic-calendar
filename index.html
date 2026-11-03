@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#1f4e79">
+  <title>世界の経済指標カレンダー</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main>
+    <h1>世界の経済指標カレンダー</h1>
+    <section class="card">
+      <h2>Googleカレンダーに追加</h2>
+      <p>下のURLを、パソコンのブラウザ版Googleカレンダーの「他のカレンダー → URLで追加」に貼りつけます。一度登録すれば、新しい予定も自動で反映されます。</p>
+      <button id="copy-button" type="button">購読URLをコピー</button>
+      <p id="copy-result" class="note" role="status"></p>
+      <p class="note">反映まで時間がかかることがあります。直前の変更は各公式サイトで確認してください。</p>
+    </section>
+    <p id="warning" class="warning" hidden></p>
+    <section>
+      <h2>これからの予定（日本時間）</h2>
+      <div id="event-list"></div>
+    </section>
+  </main>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2092 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//economic-calendar//JA
+CALSCALE:GREGORIAN
+X-WR-CALNAME:世界の経済指標
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:1d9321f7f33308dd54437a403c2d54e0f41fac22@economic-calendar
+DTSTAMP:20261104T100000Z
+DTSTART:20261104T100000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / October 2026\nhttps://ec.
+ europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:41caf6e66943b80097e9d7d94ab5a6187b551cfe@economic-calendar
+DTSTAMP:20261105T120000Z
+DTSTART:20261105T120000Z
+DURATION:PT30M
+SUMMARY:【英国】BoE 政策金利発表
+DESCRIPTION:12:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:69a0286da4f5c287df738647608986d04b856a6e@economic-calendar
+DTSTAMP:20261106T133000Z
+DTSTART:20261106T133000Z
+DURATION:PT30M
+SUMMARY:【カナダ】雇用統計
+DESCRIPTION:Labour Force Survey\, October 2026\nhttps://www150.statcan.gc.
+ ca/n1/dai-quo/cal2-eng.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb6ec67df30eeb943383da85825c101f11e5ca6@economic-calendar
+DTSTAMP:20261109T013000Z
+DTSTART:20261109T013000Z
+DURATION:PT30M
+SUMMARY:【中国】消費者物価指数（CPI）
+DESCRIPTION:https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/
+ 202512/t20251226_1962154.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa3b54f1d0bb8297238b7c01e07f1853e514d6d@economic-calendar
+DTSTAMP:20261112T070000Z
+DTSTART:20261112T070000Z
+DURATION:PT30M
+SUMMARY:【英国】GDP速報
+DESCRIPTION:GDP first quarterly estimate\, UK: July to September 2026\nhtt
+ ps://www.ons.gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a27a35352019da5afa684bf3c66aff48acf95c49@economic-calendar
+DTSTAMP:20261112T070000Z
+DTSTART:20261112T070000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: September 2026\nhttps://www.ons.gov
+ .uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f6939ddbf621080573838016c867df0ff464285b@economic-calendar
+DTSTAMP:20261113T100000Z
+DTSTART:20261113T100000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】GDP速報
+DESCRIPTION:Flash estimate GDP and employment - EU and euro area / Q3/2026
+ \nhttps://ec.europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f47479195ee834473a689b186fef0074a135d53a@economic-calendar
+DTSTAMP:20261115T235000Z
+DTSTART:20261115T235000Z
+DURATION:PT30M
+SUMMARY:【日本】GDP速報
+DESCRIPTION:2026年7-9月期（1次速報）\nhttps://www.esri.cao.go.jp/j
+ p/sna/kouhyou/kouhyou_top.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ada32302ee6b7bd1986da7c5f68726b012d1891b@economic-calendar
+DTSTAMP:20261116T020000Z
+DTSTART:20261116T020000Z
+DURATION:PT30M
+SUMMARY:【中国】主要経済指標（GDP・工業生産・小売）
+DESCRIPTION:https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/
+ 202512/t20251226_1962154.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0223cac5240f047eb73ff220ae061ed982f5991a@economic-calendar
+DTSTAMP:20261117T070000Z
+DTSTART:20261117T070000Z
+DURATION:PT30M
+SUMMARY:【英国】雇用統計
+DESCRIPTION:UK Labour Market: November 2026\nhttps://www.ons.gov.uk/releas
+ ecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5c69dac1403b3f36b6c6310fa5e95699b507af90@economic-calendar
+DTSTAMP:20261117T133000Z
+DTSTART:20261117T133000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview-2
+ 026.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe0a025c170cce2ac878a11c219bfbb3a4bd8bfa@economic-calendar
+DTSTAMP:20261118T003000Z
+DTSTART:20261118T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】賃金指数
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202611
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95cb19f2613253dd3a6572b7551b9cd1b2a96dc9@economic-calendar
+DTSTAMP:20261118T070000Z
+DTSTART:20261118T070000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: October 2026\nhttps://www.ons.g
+ ov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a3c6d69824dbb4f32c0aea80f4b808113bbfc74e@economic-calendar
+DTSTAMP:20261119T003000Z
+DTSTART:20261119T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】雇用統計
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202611
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ee0267e7e1af8236c929d8d4751bd30519640d12@economic-calendar
+DTSTAMP:20261119T233000Z
+DTSTART:20261119T233000Z
+DURATION:PT30M
+SUMMARY:【日本】全国消費者物価指数（CPI）
+DESCRIPTION:2026年10月分\nhttps://www.e-stat.go.jp/release-calendar/sta
+ tistics/00200573
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:12fa0aef0d5568ecd9d6508906ab64fc785d8e27@economic-calendar
+DTSTAMP:20261125T003000Z
+DTSTART:20261125T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】消費者物価指数（CPI）
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202611
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb17f99958c3fe997d0d27bda33d2b76824eb47a@economic-calendar
+DTSTAMP:20261125T133000Z
+DTSTART:20261125T133000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 3rd Quarter 2026
+ \nhttps://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9b2bcb3d042b0ed1b0dd5ee81e06c84ac0fc1f3d@economic-calendar
+DTSTAMP:20261125T133000Z
+DTSTART:20261125T133000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, October 2026\nhttps://www.bea.go
+ v/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:83d66176ac1597f186db6fc98adc179b297c9462@economic-calendar
+DTSTAMP:20261130T013000Z
+DTSTART:20261130T013000Z
+DURATION:PT30M
+SUMMARY:【中国】製造業PMI
+DESCRIPTION:https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/
+ 202512/t20251226_1962154.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b340ff8b08d00fc16a40a0ef11733d6b64bfaaed@economic-calendar
+DTSTAMP:20261201T100000Z
+DTSTART:20261201T100000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / November 2026\nhttps://ec
+ .europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:54564fb60cad297c5f8df2ce300bc3dc93c295ce@economic-calendar
+DTSTAMP:20261202T003000Z
+DTSTART:20261202T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】GDP
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202612
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6b77e8e3881261dd32287b1bef2e846d8ba600c2@economic-calendar
+DTSTAMP:20261202T133000Z
+DTSTART:20261202T133000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP by County and Personal Income by County\, 2025\nhttps://ww
+ w.bea.gov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b967343ef564a25e25ff9a1c724a764cb82f03a8@economic-calendar
+DTSTAMP:20261207T235000Z
+DTSTART:20261207T235000Z
+DURATION:PT30M
+SUMMARY:【日本】GDP速報
+DESCRIPTION:2026年7-9月期（2次速報）\nhttps://www.esri.cao.go.jp/j
+ p/sna/kouhyou/kouhyou_top.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70b76ef3c23932ea6fc1f316a2ae49782e15e501@economic-calendar
+DTSTAMP:20261208T033000Z
+DTSTART:20261208T033000Z
+DURATION:PT30M
+SUMMARY:【豪州】RBA 政策金利発表
+DESCRIPTION:https://www.rba.gov.au/schedules-events/calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8b3e7230b8b5c84d83e345d31c3fdace82a9303f@economic-calendar
+DTSTAMP:20261209T013000Z
+DTSTART:20261209T013000Z
+DURATION:PT30M
+SUMMARY:【中国】消費者物価指数（CPI）
+DESCRIPTION:https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/
+ 202512/t20251226_1962154.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fd15a0c5f94b22ca8cb7b4e24fe0043c39feb716@economic-calendar
+DTSTAMP:20261209T190000Z
+DTSTART:20261209T190000Z
+DURATION:PT30M
+SUMMARY:【米国】FOMC 政策金利発表
+DESCRIPTION:経済見通し（SEP）あり。14:00は例年の時刻（公
+ 式日程に時刻の記載なし）\nhttps://www.federalreserve.gov/mone
+ tarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99b4c48dac317ceed638f50b45a623ac0fa4660f@economic-calendar
+DTSTAMP:20261210T083000Z
+DTSTART:20261210T083000Z
+DURATION:PT30M
+SUMMARY:【スイス】SNB 政策金利発表
+DESCRIPTION:https://www.snb.ch/en/services-events/digital-services/event-s
+ chedule
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:947d65f2dd31fefee180287d75eb74f63bd8751f@economic-calendar
+DTSTAMP:20261211T070000Z
+DTSTART:20261211T070000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: October 2026\nhttps://www.ons.gov.u
+ k/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cec4418a1a3d08e45852fe19fa7fb47c641afe3a@economic-calendar
+DTSTAMP:20261215T020000Z
+DTSTART:20261215T020000Z
+DURATION:PT30M
+SUMMARY:【中国】主要経済指標（GDP・工業生産・小売）
+DESCRIPTION:https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/
+ 202512/t20251226_1962154.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51613eb48434b88d6db96dabe48c69408dd96c88@economic-calendar
+DTSTAMP:20261215T070000Z
+DTSTART:20261215T070000Z
+DURATION:PT30M
+SUMMARY:【英国】雇用統計
+DESCRIPTION:UK Labour Market: December 2026\nhttps://www.ons.gov.uk/releas
+ ecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9aa3bbe14f1bac8c277d8fc2efc03199d91a1ca8@economic-calendar
+DTSTAMP:20261216T070000Z
+DTSTART:20261216T070000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: November 2026\nhttps://www.ons.
+ gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b7a8b27f173f50ed7c480e102030e32ff754f0d7@economic-calendar
+DTSTAMP:20261216T133000Z
+DTSTART:20261216T133000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview-2
+ 026.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b8ae6d19d844a84267b4c112e865f318bcb98b86@economic-calendar
+DTSTAMP:20261217T003000Z
+DTSTART:20261217T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】雇用統計
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202612
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:22bd5bba7e5746624738d8f5e3937d51d63b0233@economic-calendar
+DTSTAMP:20261217T120000Z
+DTSTART:20261217T120000Z
+DURATION:PT30M
+SUMMARY:【英国】BoE 政策金利発表
+DESCRIPTION:12:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aed97915c982eb0a66f8c115eafafbbe0186538b@economic-calendar
+DTSTAMP:20261217T131500Z
+DTSTART:20261217T131500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe8861c2ef1d3d08bc3a9d43097d4849c271eb0b@economic-calendar
+DTSTAMP:20261217T233000Z
+DTSTART:20261217T233000Z
+DURATION:PT30M
+SUMMARY:【日本】全国消費者物価指数（CPI）
+DESCRIPTION:2026年11月分\nhttps://www.e-stat.go.jp/release-calendar/sta
+ tistics/00200573
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e9071be0cf3442b93cb48671f51900e77cff8c18@economic-calendar
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:【日本】日銀 金融政策決定会合（結果公表）
+DESCRIPTION:公表時刻は会合ごとに異なるため終日予定\nhtt
+ ps://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f39936d29cb13f31c065958ea41ce09ff5a9ec8c@economic-calendar
+DTSTAMP:20261223T133000Z
+DTSTART:20261223T133000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State 
+ GDP\, and State Personal Income\, 3rd Quarter 2026\nhttps://www.bea.gov/n
+ ews/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9e395a680779dcf04360105d8fef932dd8a00fa4@economic-calendar
+DTSTAMP:20261223T133000Z
+DTSTART:20261223T133000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, November 2026\nhttps://www.bea.g
+ ov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:00200024c0e7edd45b0f60a4dfa7c9e608755248@economic-calendar
+DTSTAMP:20261231T013000Z
+DTSTART:20261231T013000Z
+DURATION:PT30M
+SUMMARY:【中国】製造業PMI
+DESCRIPTION:https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/
+ 202512/t20251226_1962154.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:333abcfe7163dcadd71002ba527f4317b160f225@economic-calendar
+DTSTAMP:20270106T003000Z
+DTSTART:20270106T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】消費者物価指数（CPI）
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202701
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2ee6427bd31b3736ad2e5bc3754ded247f841689@economic-calendar
+DTSTAMP:20270106T100000Z
+DTSTART:20270106T100000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / December 2026\nhttps://ec
+ .europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c27cd79c765883cc047e457950972e3d0332ca2@economic-calendar
+DTSTAMP:20270115T070000Z
+DTSTART:20270115T070000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: November 2026\nhttps://www.ons.gov.
+ uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:03168d2f9be67819584bc6e8d3e051d59a2cce75@economic-calendar
+DTSTAMP:20270115T133000Z
+DTSTART:20270115T133000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b2be0259b0dc9a623cd531d1bc4a39334d90df4b@economic-calendar
+DTSTAMP:20270120T070000Z
+DTSTART:20270120T070000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: December 2026\nhttps://www.ons.
+ gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:832e89d2168b1b52d983882a7b9e0a91f6b6a2a9@economic-calendar
+DTSTAMP:20270121T003000Z
+DTSTART:20270121T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】雇用統計
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202701
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51a0fce12144c3db436da767acc1c8618ad50147@economic-calendar
+DTSTAMP:20270121T233000Z
+DTSTART:20270121T233000Z
+DURATION:PT30M
+SUMMARY:【日本】全国消費者物価指数（CPI）
+DESCRIPTION:2026年12月分\nhttps://www.e-stat.go.jp/release-calendar/sta
+ tistics/00200573
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4ecbe1093923be0b1f1454d294e335c8587c5762@economic-calendar
+DTSTAMP:20270122T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:【日本】日銀 金融政策決定会合（結果公表）
+DESCRIPTION:公表時刻は会合ごとに異なるため終日予定\nhtt
+ ps://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e03838a7fb0fe55225384a3008a93c9de15e05af@economic-calendar
+DTSTAMP:20270127T003000Z
+DTSTART:20270127T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】消費者物価指数（CPI）
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202701
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e79c03bd57c757e0895c4534d86365f35a58aad1@economic-calendar
+DTSTAMP:20270127T144500Z
+DTSTART:20270127T144500Z
+DURATION:PT30M
+SUMMARY:【カナダ】BoC 政策金利発表
+DESCRIPTION:9:45は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofcanada.ca/core-functions/monetary-policy/key-inter
+ est-rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:68723308986c19b7790a5263c435be36edb1ee11@economic-calendar
+DTSTAMP:20270127T190000Z
+DTSTART:20270127T190000Z
+DURATION:PT30M
+SUMMARY:【米国】FOMC 政策金利発表
+DESCRIPTION:14:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4fa56b2ac922686edeb5816515ead35df8f8e14d@economic-calendar
+DTSTAMP:20270128T133000Z
+DTSTART:20270128T133000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Advance Estimate)\, 4th Quarter and Year 2026\nhttps://ww
+ w.bea.gov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e6219dc33eae3768bd3afc06caaa5db0612d8d@economic-calendar
+DTSTAMP:20270128T133000Z
+DTSTART:20270128T133000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, December 2026\nhttps://www.bea.g
+ ov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a8a360da45fd1d8725d58e15cfe8aa50ecdf76c@economic-calendar
+DTSTAMP:20270129T100000Z
+DTSTART:20270129T100000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】GDP速報
+DESCRIPTION:Preliminary flash estimate GDP - EU and euro area / Q4/2026\nh
+ ttps://ec.europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e72752a948bc95d0d8b06ee86548a9e8cd9b5fab@economic-calendar
+DTSTAMP:20270202T100000Z
+DTSTART:20270202T100000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / January 2027\nhttps://ec.
+ europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e2263acfe1f0a16c5551c2c505f10ba106c1b2a4@economic-calendar
+DTSTAMP:20270204T120000Z
+DTSTART:20270204T120000Z
+DURATION:PT30M
+SUMMARY:【英国】BoE 政策金利発表
+DESCRIPTION:12:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:432d05c720b64235186c5a71292d19df26bfcff1@economic-calendar
+DTSTAMP:20270204T131500Z
+DTSTART:20270204T131500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6795f03ca2164e477b724c7bbc49801b87bffda3@economic-calendar
+DTSTAMP:20270209T033000Z
+DTSTART:20270209T033000Z
+DURATION:PT30M
+SUMMARY:【豪州】RBA 政策金利発表
+DESCRIPTION:https://www.rba.gov.au/schedules-events/calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7349bfe1ab4fb15dc3f233a3a8a56aaa782c09a6@economic-calendar
+DTSTAMP:20270212T070000Z
+DTSTART:20270212T070000Z
+DURATION:PT30M
+SUMMARY:【英国】GDP速報
+DESCRIPTION:GDP first quarterly estimate\, UK: October to December 2026 ti
+ me series\nhttps://www.ons.gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:29149555ba3476bedd783c7e1ab0ff955a799637@economic-calendar
+DTSTAMP:20270212T070000Z
+DTSTART:20270212T070000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: December 2026\nhttps://www.ons.gov.
+ uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ff1b5b897326bf040d0badc4e6d3fbab968e4e9e@economic-calendar
+DTSTAMP:20270214T235000Z
+DTSTART:20270214T235000Z
+DURATION:PT30M
+SUMMARY:【日本】GDP速報
+DESCRIPTION:2026年10-12月期（1次速報）\nhttps://www.esri.cao.go.jp
+ /jp/sna/kouhyou/kouhyou_top.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:184915a8259885fa7cbe8ec263b3829a372fae1a@economic-calendar
+DTSTAMP:20270215T100000Z
+DTSTART:20270215T100000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】GDP速報
+DESCRIPTION:Flash estimate GDP and employment - EU and euro area / Q4/2026
+ \nhttps://ec.europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aa8c4690a36713009fc32f4ec4756260c7502c5c@economic-calendar
+DTSTAMP:20270217T070000Z
+DTSTART:20270217T070000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: January 2027\nhttps://www.ons.g
+ ov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e936c9cd9d1038e87ad0bf6480ee8413a1542b@economic-calendar
+DTSTAMP:20270217T133000Z
+DTSTART:20270217T133000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7e0e8f3e8abacd7cc8566e4d606f0d6d78cacdc2@economic-calendar
+DTSTAMP:20270218T003000Z
+DTSTART:20270218T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】雇用統計
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202702
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb683e484a7aaae1817a18036cfa814f2732229c@economic-calendar
+DTSTAMP:20270218T233000Z
+DTSTART:20270218T233000Z
+DURATION:PT30M
+SUMMARY:【日本】全国消費者物価指数（CPI）
+DESCRIPTION:2027年1月分\nhttps://www.e-stat.go.jp/release-calendar/stat
+ istics/00200573
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:438b79f47adb547294fe1d3d5caaeea93225305f@economic-calendar
+DTSTAMP:20270223T003000Z
+DTSTART:20270223T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】賃金指数
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202702
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eae8700ec8c5c3448ab155bdc084b4d7eae74e70@economic-calendar
+DTSTAMP:20270224T003000Z
+DTSTART:20270224T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】消費者物価指数（CPI）
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202702
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:06fdcdbcb6a6c8792ff1e7e1a4a07bfced287539@economic-calendar
+DTSTAMP:20270225T133000Z
+DTSTART:20270225T133000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Second Estimate)\, 4th Quarter and Year 2026\nhttps://www
+ .bea.gov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6ce1d8edb297333c9bb1b26dfc52c5afa5d3f1@economic-calendar
+DTSTAMP:20270225T133000Z
+DTSTART:20270225T133000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, January 2027\nhttps://www.bea.go
+ v/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:aafb4e8822708bf8f6e777660f012114279afe96@economic-calendar
+DTSTAMP:20270302T100000Z
+DTSTART:20270302T100000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / February 2027\nhttps://ec
+ .europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d54a40662a65f4a15fc1e4b2f53e6539e90f65bc@economic-calendar
+DTSTAMP:20270303T003000Z
+DTSTART:20270303T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】GDP
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202703
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ab329101a2941ff87157354091a6c80dbdecac@economic-calendar
+DTSTAMP:20270303T144500Z
+DTSTART:20270303T144500Z
+DURATION:PT30M
+SUMMARY:【カナダ】BoC 政策金利発表
+DESCRIPTION:9:45は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofcanada.ca/core-functions/monetary-policy/key-inter
+ est-rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:91dcbea371f37efa45849962711bbdb56c854914@economic-calendar
+DTSTAMP:20270308T235000Z
+DTSTART:20270308T235000Z
+DURATION:PT30M
+SUMMARY:【日本】GDP速報
+DESCRIPTION:2026年10-12月期（2次速報）\nhttps://www.esri.cao.go.jp
+ /jp/sna/kouhyou/kouhyou_top.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d260a625a7f9d59ec5eed50c50e1722699bb5960@economic-calendar
+DTSTAMP:20270311T070000Z
+DTSTART:20270311T070000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: January 2027\nhttps://www.ons.gov.u
+ k/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fd2ec78f7c0059e32136e2e66e8b3b24f51dc870@economic-calendar
+DTSTAMP:20270316T123000Z
+DTSTART:20270316T123000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:87d6fd91f744a2434eaff7b22d0222060518d29a@economic-calendar
+DTSTAMP:20270317T180000Z
+DTSTART:20270317T180000Z
+DURATION:PT30M
+SUMMARY:【米国】FOMC 政策金利発表
+DESCRIPTION:経済見通し（SEP）あり。14:00は例年の時刻（公
+ 式日程に時刻の記載なし）\nhttps://www.federalreserve.gov/mone
+ tarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eb8c885657cb2f4663fc8d63deeb033bd65919e3@economic-calendar
+DTSTAMP:20270318T000000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:【日本】日銀 金融政策決定会合（結果公表）
+DESCRIPTION:公表時刻は会合ごとに異なるため終日予定\nhtt
+ ps://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5da4b79e5c08d1e67346f6d1c003fdc4b935e96d@economic-calendar
+DTSTAMP:20270318T083000Z
+DTSTART:20270318T083000Z
+DURATION:PT30M
+SUMMARY:【スイス】SNB 政策金利発表
+DESCRIPTION:https://www.snb.ch/en/services-events/digital-services/event-s
+ chedule
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5ecda723ec469fec1f26fa4bac5b7e7d00ac5419@economic-calendar
+DTSTAMP:20270318T120000Z
+DTSTART:20270318T120000Z
+DURATION:PT30M
+SUMMARY:【英国】BoE 政策金利発表
+DESCRIPTION:12:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1c4085177b7b7e15718fef9eb43d01a56135676a@economic-calendar
+DTSTAMP:20270318T131500Z
+DTSTART:20270318T131500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:09f89b327b08372ff1ba10656d90db7ee3b17f42@economic-calendar
+DTSTAMP:20270318T233000Z
+DTSTART:20270318T233000Z
+DURATION:PT30M
+SUMMARY:【日本】全国消費者物価指数（CPI）
+DESCRIPTION:2027年2月分\nhttps://www.e-stat.go.jp/release-calendar/stat
+ istics/00200573
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b463c5d8904f8f74151038401f2c79868270f61@economic-calendar
+DTSTAMP:20270323T033000Z
+DTSTART:20270323T033000Z
+DURATION:PT30M
+SUMMARY:【豪州】RBA 政策金利発表
+DESCRIPTION:https://www.rba.gov.au/schedules-events/calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bd271a8da009fbd8495a46bb3c75aa1fe3c64b9b@economic-calendar
+DTSTAMP:20270324T003000Z
+DTSTART:20270324T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】消費者物価指数（CPI）
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202703
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0ab71822ddfd62e7fc80afd247d92352cce9288@economic-calendar
+DTSTAMP:20270324T070000Z
+DTSTART:20270324T070000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: February 2027\nhttps://www.ons.
+ gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2c6a3383bc853843a66c7b174d803a421e377e@economic-calendar
+DTSTAMP:20270325T003000Z
+DTSTART:20270325T003000Z
+DURATION:PT30M
+SUMMARY:【豪州】雇用統計
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202703
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2c014089342c579f16f2f1d99a4eb2e4a4dea31c@economic-calendar
+DTSTAMP:20270331T123000Z
+DTSTART:20270331T123000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State 
+ GDP\, and State Personal Income\, 4th Quarter and Year 2026\nhttps://www.
+ bea.gov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5d6a1004c45949654aef11b703726c92c0c58843@economic-calendar
+DTSTAMP:20270331T123000Z
+DTSTART:20270331T123000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, February 2027\nhttps://www.bea.g
+ ov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f865f100d8579b576fe7781d1d70cb86fff3b8f0@economic-calendar
+DTSTAMP:20270401T090000Z
+DTSTART:20270401T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / March 2027\nhttps://ec.eu
+ ropa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f9adab023c335271abbd7b04987b08bb15bcf227@economic-calendar
+DTSTAMP:20270414T060000Z
+DTSTART:20270414T060000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: February 2027\nhttps://www.ons.gov.
+ uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7344617a49a5a7a47478508c186b9eeb6eb77d3b@economic-calendar
+DTSTAMP:20270415T013000Z
+DTSTART:20270415T013000Z
+DURATION:PT30M
+SUMMARY:【豪州】雇用統計
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202704
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2fcc744b1ef322086de05ae55b96963ef83d8a1d@economic-calendar
+DTSTAMP:20270416T123000Z
+DTSTART:20270416T123000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f5290b707b47afca83af02099d4e44b369f304a1@economic-calendar
+DTSTAMP:20270421T060000Z
+DTSTART:20270421T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: March 2027\nhttps://www.ons.gov
+ .uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ba099b4171d3be4f157eae06310856baadcb0e1@economic-calendar
+DTSTAMP:20270428T000000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:【日本】日銀 金融政策決定会合（結果公表）
+DESCRIPTION:公表時刻は会合ごとに異なるため終日予定\nhtt
+ ps://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5f742abf6a6bf0934a7e4e54f93f7880a596a455@economic-calendar
+DTSTAMP:20270428T013000Z
+DTSTART:20270428T013000Z
+DURATION:PT30M
+SUMMARY:【豪州】消費者物価指数（CPI）
+DESCRIPTION:https://www.abs.gov.au/release-calendar/future-releases/202704
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c60551b4bbad5e66b5fcf93896bf667bf8d3f785@economic-calendar
+DTSTAMP:20270428T134500Z
+DTSTART:20270428T134500Z
+DURATION:PT30M
+SUMMARY:【カナダ】BoC 政策金利発表
+DESCRIPTION:9:45は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofcanada.ca/core-functions/monetary-policy/key-inter
+ est-rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:28aff5d8704ff1c176bd57b8a265c9683d1c5ddd@economic-calendar
+DTSTAMP:20270428T180000Z
+DTSTART:20270428T180000Z
+DURATION:PT30M
+SUMMARY:【米国】FOMC 政策金利発表
+DESCRIPTION:14:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b843b192ddcf51c163c90dfcbde4c9690a287ce3@economic-calendar
+DTSTAMP:20270429T110000Z
+DTSTART:20270429T110000Z
+DURATION:PT30M
+SUMMARY:【英国】BoE 政策金利発表
+DESCRIPTION:12:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:255e260b806746ca04ecda6521f42ffeeac73b6f@economic-calendar
+DTSTAMP:20270429T121500Z
+DTSTART:20270429T121500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d5e6a8c5ea662cc391c17abe78a8a9f031dcc3ae@economic-calendar
+DTSTAMP:20270429T123000Z
+DTSTART:20270429T123000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Advance Estimate)\, 1st Quarter 2027\nhttps://www.bea.gov
+ /news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:658598ff9580546251a2c89561c4782874c97960@economic-calendar
+DTSTAMP:20270429T123000Z
+DTSTART:20270429T123000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, March 2027\nhttps://www.bea.gov/
+ news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:818623c0398d4c5fc3810a246050c6d14a953d38@economic-calendar
+DTSTAMP:20270430T090000Z
+DTSTART:20270430T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】GDP速報
+DESCRIPTION:Preliminary flash estimate GDP - EU and euro area / Q1/2027\nh
+ ttps://ec.europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:17eeac7b84e7afcc4a83d19c98017b0405e8b86c@economic-calendar
+DTSTAMP:20270503T090000Z
+DTSTART:20270503T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / April 2027\nhttps://ec.eu
+ ropa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e94415c0db9e49e34bd4abe01d797d5f446d9412@economic-calendar
+DTSTAMP:20270504T043000Z
+DTSTART:20270504T043000Z
+DURATION:PT30M
+SUMMARY:【豪州】RBA 政策金利発表
+DESCRIPTION:https://www.rba.gov.au/schedules-events/calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9fcb7cee83bc4370bfa0ce2f000d0a18171b3632@economic-calendar
+DTSTAMP:20270514T060000Z
+DTSTART:20270514T060000Z
+DURATION:PT30M
+SUMMARY:【英国】GDP速報
+DESCRIPTION:GDP first quarterly estimate\, UK: January to March 2027 times
+ eries\nhttps://www.ons.gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7397e9d2b8ba94f11a396d699c9cc22aa4ceeac1@economic-calendar
+DTSTAMP:20270514T060000Z
+DTSTART:20270514T060000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: March 2027\nhttps://www.ons.gov.uk/
+ releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a385458dbc1c7e47349465908322064011b20751@economic-calendar
+DTSTAMP:20270514T090000Z
+DTSTART:20270514T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】GDP速報
+DESCRIPTION:Flash estimate GDP and employment - EU and euro area / Q1/2027
+ \nhttps://ec.europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b74d91bfef50facf5d229f88832edff39104741e@economic-calendar
+DTSTAMP:20270514T123000Z
+DTSTART:20270514T123000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f170368696792857f351056f17bbdfcf1b23a2d0@economic-calendar
+DTSTAMP:20270519T060000Z
+DTSTART:20270519T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: April 2027\nhttps://www.ons.gov
+ .uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:51689fc86138ec5bda4c7c9d00d7d30b94de6851@economic-calendar
+DTSTAMP:20270527T123000Z
+DTSTART:20270527T123000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 1st Quarter 2027
+ \nhttps://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0b7f143efb85933122c25d758a7b05f68ce38174@economic-calendar
+DTSTAMP:20270527T123000Z
+DTSTART:20270527T123000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, April 2027\nhttps://www.bea.gov/
+ news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:35aa59ce7d5964492ecf6f8a9f44a1437de50246@economic-calendar
+DTSTAMP:20270601T090000Z
+DTSTART:20270601T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / May 2027\nhttps://ec.euro
+ pa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:009ff7e2b311e0a30330498800b8508a43d4b007@economic-calendar
+DTSTAMP:20270602T134500Z
+DTSTART:20270602T134500Z
+DURATION:PT30M
+SUMMARY:【カナダ】BoC 政策金利発表
+DESCRIPTION:9:45は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofcanada.ca/core-functions/monetary-policy/key-inter
+ est-rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e948ad2fbbc1119f287c7229f006f76bdcdf9397@economic-calendar
+DTSTAMP:20270609T180000Z
+DTSTART:20270609T180000Z
+DURATION:PT30M
+SUMMARY:【米国】FOMC 政策金利発表
+DESCRIPTION:経済見通し（SEP）あり。14:00は例年の時刻（公
+ 式日程に時刻の記載なし）\nhttps://www.federalreserve.gov/mone
+ tarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4647bbf3895acd837aad17e48d3f26199c0cc278@economic-calendar
+DTSTAMP:20270610T121500Z
+DTSTART:20270610T121500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:55feb256af8f31415364b00d58fbe5a1b3aa8261@economic-calendar
+DTSTAMP:20270611T000000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:【日本】日銀 金融政策決定会合（結果公表）
+DESCRIPTION:公表時刻は会合ごとに異なるため終日予定\nhtt
+ ps://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1b14822955892ffd7389c7b283ddbf479d56a990@economic-calendar
+DTSTAMP:20270616T060000Z
+DTSTART:20270616T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: May 2027\nhttps://www.ons.gov.u
+ k/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bc8ea20b10b0e8af4212b8dc2c19da1431514e3e@economic-calendar
+DTSTAMP:20270616T123000Z
+DTSTART:20270616T123000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:af07de136d46a3a2546fe661282082143ab72d9a@economic-calendar
+DTSTAMP:20270617T060000Z
+DTSTART:20270617T060000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: April 2027\nhttps://www.ons.gov.uk/
+ releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b5bbb2bd4e2ca406ec9faec2c7dbb02cf985c662@economic-calendar
+DTSTAMP:20270617T110000Z
+DTSTART:20270617T110000Z
+DURATION:PT30M
+SUMMARY:【英国】BoE 政策金利発表
+DESCRIPTION:12:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:283877e6f8f1df42a7eb54fda0c9c69cf1ae1216@economic-calendar
+DTSTAMP:20270622T043000Z
+DTSTART:20270622T043000Z
+DURATION:PT30M
+SUMMARY:【豪州】RBA 政策金利発表
+DESCRIPTION:https://www.rba.gov.au/schedules-events/calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58368de6fb776bc3b2797eb71f97f5b779dea1f1@economic-calendar
+DTSTAMP:20270624T073000Z
+DTSTART:20270624T073000Z
+DURATION:PT30M
+SUMMARY:【スイス】SNB 政策金利発表
+DESCRIPTION:https://www.snb.ch/en/services-events/digital-services/event-s
+ chedule
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c30335eb38bd9fec8a3ac1647d60eb0a01f7dac8@economic-calendar
+DTSTAMP:20270625T123000Z
+DTSTART:20270625T123000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State 
+ GDP\, and State Personal Income\, 1st Quarter 2027\nhttps://www.bea.gov/n
+ ews/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a9955eef7663985a370d45684e0e1c82065047dc@economic-calendar
+DTSTAMP:20270625T123000Z
+DTSTART:20270625T123000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, May 2027\nhttps://www.bea.gov/ne
+ ws/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d6ef5f3af9a78052f0c2c1563fc1652a411bd79c@economic-calendar
+DTSTAMP:20270701T090000Z
+DTSTART:20270701T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / June 2027\nhttps://ec.eur
+ opa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8eabf5049a16ed5efe98ba933984beabee46cc5@economic-calendar
+DTSTAMP:20270714T060000Z
+DTSTART:20270714T060000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: May 2027\nhttps://www.ons.gov.uk/re
+ leasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ee57b83e60126b5ac1dc9e833bfd935ec3db4826@economic-calendar
+DTSTAMP:20270716T123000Z
+DTSTART:20270716T123000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8406f518032a299af24f9e2534df9505caf1bf62@economic-calendar
+DTSTAMP:20270721T060000Z
+DTSTART:20270721T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: June 2027\nhttps://www.ons.gov.
+ uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:013b434653d64156cfbb3cfc4c35ddc53e051edb@economic-calendar
+DTSTAMP:20270721T134500Z
+DTSTART:20270721T134500Z
+DURATION:PT30M
+SUMMARY:【カナダ】BoC 政策金利発表
+DESCRIPTION:9:45は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofcanada.ca/core-functions/monetary-policy/key-inter
+ est-rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dd0b6bfe21c5f9942067914f23fe4c123ce22000@economic-calendar
+DTSTAMP:20270722T000000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:【日本】日銀 金融政策決定会合（結果公表）
+DESCRIPTION:公表時刻は会合ごとに異なるため終日予定\nhtt
+ ps://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5b4639d49ad8677421b25902175e5a814b2ceadf@economic-calendar
+DTSTAMP:20270722T121500Z
+DTSTART:20270722T121500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dc36857e3d9873b1432e85da8e6c17fbd4bee9ad@economic-calendar
+DTSTAMP:20270728T180000Z
+DTSTART:20270728T180000Z
+DURATION:PT30M
+SUMMARY:【米国】FOMC 政策金利発表
+DESCRIPTION:14:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c8d862664aa8e22644e071dac510ea7992ee7043@economic-calendar
+DTSTAMP:20270729T110000Z
+DTSTART:20270729T110000Z
+DURATION:PT30M
+SUMMARY:【英国】BoE 政策金利発表
+DESCRIPTION:12:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b895865d9ae35f11379de1657f96658417b6d7f4@economic-calendar
+DTSTAMP:20270729T123000Z
+DTSTART:20270729T123000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Advance Estimate)\, 2nd Quarter 2027\nhttps://www.bea.gov
+ /news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f579d9edff7bdc25a3a98c1e5d4bfe6dae1a73f@economic-calendar
+DTSTAMP:20270729T123000Z
+DTSTART:20270729T123000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, June 2027\nhttps://www.bea.gov/n
+ ews/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8609d899cf0f8b70fab5c54c8ae324aeb565186f@economic-calendar
+DTSTAMP:20270730T090000Z
+DTSTART:20270730T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】GDP速報
+DESCRIPTION:Preliminary flash estimate GDP - EU and euro area / Q2/2027\nh
+ ttps://ec.europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2551be46049eaa33a14eaa974d63ac27efc5ea4b@economic-calendar
+DTSTAMP:20270803T090000Z
+DTSTART:20270803T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / July 2027\nhttps://ec.eur
+ opa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e20878f08cf9541f5a829225d404839b2c072bbe@economic-calendar
+DTSTAMP:20270810T043000Z
+DTSTART:20270810T043000Z
+DURATION:PT30M
+SUMMARY:【豪州】RBA 政策金利発表
+DESCRIPTION:https://www.rba.gov.au/schedules-events/calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58576c1911796dece89596297900bb170a289f7f@economic-calendar
+DTSTAMP:20270813T060000Z
+DTSTART:20270813T060000Z
+DURATION:PT30M
+SUMMARY:【英国】GDP速報
+DESCRIPTION:GDP first quarterly estimate\, UK: April to June 2027\nhttps:/
+ /www.ons.gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e396809ca90afb6901063a59721f5d93cf1c0466@economic-calendar
+DTSTAMP:20270813T060000Z
+DTSTART:20270813T060000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: June 2027\nhttps://www.ons.gov.uk/r
+ eleasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6c472101c2cebf8979bdeced73098ef612895dfb@economic-calendar
+DTSTAMP:20270813T090000Z
+DTSTART:20270813T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】GDP速報
+DESCRIPTION:Flash estimate GDP and employment - EU and euro area / Q2/2027
+ \nhttps://ec.europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:45cd853f5cf5a1e79391f5f866b016068fbc166d@economic-calendar
+DTSTAMP:20270816T123000Z
+DTSTART:20270816T123000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f16ad2d5ff7d617889ff4ee08576de7c221951@economic-calendar
+DTSTAMP:20270818T060000Z
+DTSTART:20270818T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: July 2027\nhttps://www.ons.gov.
+ uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3f2a40e52b38ad461d0d4cf2f9e8315767573234@economic-calendar
+DTSTAMP:20270825T123000Z
+DTSTART:20270825T123000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 2nd Quarter 2027
+ \nhttps://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:957294d91e204e8746097af6f37d3eac76d16103@economic-calendar
+DTSTAMP:20270825T123000Z
+DTSTART:20270825T123000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, July 2027\nhttps://www.bea.gov/n
+ ews/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:36679ca712ad15b1f7d6a58d64dc1c7632560fad@economic-calendar
+DTSTAMP:20270901T090000Z
+DTSTART:20270901T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / August 2027\nhttps://ec.e
+ uropa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ed473b286a8e069092cfda83f0b60b4b81cb50fb@economic-calendar
+DTSTAMP:20270908T134500Z
+DTSTART:20270908T134500Z
+DURATION:PT30M
+SUMMARY:【カナダ】BoC 政策金利発表
+DESCRIPTION:9:45は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofcanada.ca/core-functions/monetary-policy/key-inter
+ est-rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2248ce2800901ebb40fa01a6a3b08dc3b0f3b745@economic-calendar
+DTSTAMP:20270909T121500Z
+DTSTART:20270909T121500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1ccfea2bad0fce0c0ec255afb3387b332a3864be@economic-calendar
+DTSTAMP:20270910T060000Z
+DTSTART:20270910T060000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: July 2027\nhttps://www.ons.gov.uk/r
+ eleasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f561e372c3ce07a9efaaed8246cc7535e34208e5@economic-calendar
+DTSTAMP:20270915T060000Z
+DTSTART:20270915T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: August 2027\nhttps://www.ons.go
+ v.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:04a45737e6637f76f283dc52b72be7bbc29f639f@economic-calendar
+DTSTAMP:20270915T180000Z
+DTSTART:20270915T180000Z
+DURATION:PT30M
+SUMMARY:【米国】FOMC 政策金利発表
+DESCRIPTION:経済見通し（SEP）あり。14:00は例年の時刻（公
+ 式日程に時刻の記載なし）\nhttps://www.federalreserve.gov/mone
+ tarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:529485be5d3c2a7a240c863e33c87055963cc93f@economic-calendar
+DTSTAMP:20270916T110000Z
+DTSTART:20270916T110000Z
+DURATION:PT30M
+SUMMARY:【英国】BoE 政策金利発表
+DESCRIPTION:12:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:35368d0212dfeb79125701a40a193671b6fe5734@economic-calendar
+DTSTAMP:20270916T123000Z
+DTSTART:20270916T123000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:adb035f8f5b0d0dd6ce16445978ecdb289e14094@economic-calendar
+DTSTAMP:20270922T000000Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:【日本】日銀 金融政策決定会合（結果公表）
+DESCRIPTION:公表時刻は会合ごとに異なるため終日予定\nhtt
+ ps://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e58e42c3f2092bcd169656f5cee6accfa7ae20ab@economic-calendar
+DTSTAMP:20270923T073000Z
+DTSTART:20270923T073000Z
+DURATION:PT30M
+SUMMARY:【スイス】SNB 政策金利発表
+DESCRIPTION:https://www.snb.ch/en/services-events/digital-services/event-s
+ chedule
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ae2e02e7a6bd62289832ed76f03779f9cbe25075@economic-calendar
+DTSTAMP:20270928T043000Z
+DTSTART:20270928T043000Z
+DURATION:PT30M
+SUMMARY:【豪州】RBA 政策金利発表
+DESCRIPTION:https://www.rba.gov.au/schedules-events/calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:06d56f58dbcd56840fa0c9ed70beb91d376d06a9@economic-calendar
+DTSTAMP:20270930T123000Z
+DTSTART:20270930T123000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State 
+ GDP\, and State Personal Income\, 2nd Quarter 2027\\\; State Consumer Spe
+ nding\, 2026\nhttps://www.bea.gov/news/schedule/ics/online-calendar-subsc
+ ription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:88ca09e4c3c96668929f03b25cba892037095c16@economic-calendar
+DTSTAMP:20270930T123000Z
+DTSTART:20270930T123000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, August 2027\nhttps://www.bea.gov
+ /news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2d47a695eae6dcd48b74c6e048d42bc26f4564d5@economic-calendar
+DTSTAMP:20271001T090000Z
+DTSTART:20271001T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / September 2027\nhttps://e
+ c.europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d5ccd62aaf54317104e5e9fd4e04330b1862690d@economic-calendar
+DTSTAMP:20271014T060000Z
+DTSTART:20271014T060000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: August 2027\nhttps://www.ons.gov.uk
+ /releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d788b4fd11b1e564eb7ec596c7a07126c11ef013@economic-calendar
+DTSTAMP:20271015T123000Z
+DTSTART:20271015T123000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b12c0c2627b5525a972ac5f6a6ae3fa5b20f9b70@economic-calendar
+DTSTAMP:20271020T060000Z
+DTSTART:20271020T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: September 2027\nhttps://www.ons
+ .gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:58ec8eec855aab185ea87ed1394f857c7e2bb6fc@economic-calendar
+DTSTAMP:20271027T134500Z
+DTSTART:20271027T134500Z
+DURATION:PT30M
+SUMMARY:【カナダ】BoC 政策金利発表
+DESCRIPTION:9:45は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofcanada.ca/core-functions/monetary-policy/key-inter
+ est-rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:de15f89a0f1d579dc277ee9fa19091eb350d82d5@economic-calendar
+DTSTAMP:20271027T180000Z
+DTSTART:20271027T180000Z
+DURATION:PT30M
+SUMMARY:【米国】FOMC 政策金利発表
+DESCRIPTION:14:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bd2db576a7e74f8d6b89c552d5cad26089a6cced@economic-calendar
+DTSTAMP:20271028T121500Z
+DTSTART:20271028T121500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:afadf10647f7d77fb853d180d966233d6cfe261d@economic-calendar
+DTSTAMP:20271028T123000Z
+DTSTART:20271028T123000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Advance Estimate)\, 3rd Quarter 2027\nhttps://www.bea.gov
+ /news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9c005debb2b7f001ae9ace170e6a2b89a4640568@economic-calendar
+DTSTAMP:20271028T123000Z
+DTSTART:20271028T123000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, September 2027\nhttps://www.bea.
+ gov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4fd5fc1e2d2dc698e5024968f3e8318675bc11b7@economic-calendar
+DTSTAMP:20271029T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:【日本】日銀 金融政策決定会合（結果公表）
+DESCRIPTION:公表時刻は会合ごとに異なるため終日予定\nhtt
+ ps://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b9c4f2ced15d01c3c274ffd7e4d4776cb3a685@economic-calendar
+DTSTAMP:20271029T090000Z
+DTSTART:20271029T090000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】GDP速報
+DESCRIPTION:Preliminary flash estimate GDP - EU and euro area / Q3/2027\nh
+ ttps://ec.europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ea094bfc63b06a16d460edf36d91ec8867e0192c@economic-calendar
+DTSTAMP:20271102T033000Z
+DTSTART:20271102T033000Z
+DURATION:PT30M
+SUMMARY:【豪州】RBA 政策金利発表
+DESCRIPTION:https://www.rba.gov.au/schedules-events/calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa188e52258c1407ecc8190df5075ef5b82a313@economic-calendar
+DTSTAMP:20271104T100000Z
+DTSTART:20271104T100000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】HICP速報（消費者物価）
+DESCRIPTION:Flash estimate inflation euro area / October 2027\nhttps://ec.
+ europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d767c0977c07094dceeadaa661a483d187f64c19@economic-calendar
+DTSTAMP:20271104T120000Z
+DTSTART:20271104T120000Z
+DURATION:PT30M
+SUMMARY:【英国】BoE 政策金利発表
+DESCRIPTION:12:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d609cdf80a6f4e00f2da1fe90d0ab31ca0337f9b@economic-calendar
+DTSTAMP:20271112T070000Z
+DTSTART:20271112T070000Z
+DURATION:PT30M
+SUMMARY:【英国】GDP速報
+DESCRIPTION:GDP first quarterly estimate\, UK: July to September 2027\nhtt
+ ps://www.ons.gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1e626be4f155c3d7555adca9a6a751b16afa606b@economic-calendar
+DTSTAMP:20271112T070000Z
+DTSTART:20271112T070000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: September 2027\nhttps://www.ons.gov
+ .uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4374b70a9e9ff066ee9cfb0d16ea1923ea804303@economic-calendar
+DTSTAMP:20271115T100000Z
+DTSTART:20271115T100000Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】GDP速報
+DESCRIPTION:Flash estimate GDP and employment - EU and euro area / Q3/2027
+ \nhttps://ec.europa.eu/eurostat/news/release-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1cb57a450851100c4e74629d280d4bc65621abec@economic-calendar
+DTSTAMP:20271116T133000Z
+DTSTART:20271116T133000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b1ca838ef7eb20021ed2cf9723ec553d98c14bd4@economic-calendar
+DTSTAMP:20271117T070000Z
+DTSTART:20271117T070000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: October 2027\nhttps://www.ons.g
+ ov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9673a6135600790a6196e5206ba7410263a7f6a2@economic-calendar
+DTSTAMP:20271124T133000Z
+DTSTART:20271124T133000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 3rd Quarter 2027
+ \nhttps://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20709c05fef9ec3f7aa4943eb96e8f3a92068e33@economic-calendar
+DTSTAMP:20271124T133000Z
+DTSTART:20271124T133000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, October 2027\nhttps://www.bea.go
+ v/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6233465102e997177cb0ddb9187acbd5445adf69@economic-calendar
+DTSTAMP:20271201T133000Z
+DTSTART:20271201T133000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:Gross Domestic Product by County and Personal Income by County
+ \, 2026\nhttps://www.bea.gov/news/schedule/ics/online-calendar-subscripti
+ on.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b1b43dbe34cb3281b275976337b0aa65e5a94a@economic-calendar
+DTSTAMP:20271208T144500Z
+DTSTART:20271208T144500Z
+DURATION:PT30M
+SUMMARY:【カナダ】BoC 政策金利発表
+DESCRIPTION:9:45は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofcanada.ca/core-functions/monetary-policy/key-inter
+ est-rate/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c27375b20a378c0336a8a86803b274d014411010@economic-calendar
+DTSTAMP:20271208T190000Z
+DTSTART:20271208T190000Z
+DURATION:PT30M
+SUMMARY:【米国】FOMC 政策金利発表
+DESCRIPTION:経済見通し（SEP）あり。14:00は例年の時刻（公
+ 式日程に時刻の記載なし）\nhttps://www.federalreserve.gov/mone
+ tarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ad5958a4266c03a7b2431e70bfde452cd3745398@economic-calendar
+DTSTAMP:20271210T070000Z
+DTSTART:20271210T070000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: October 2027\nhttps://www.ons.gov.u
+ k/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9ab53ae3682bee2f4ec4f49e8668fcc0a2bab2@economic-calendar
+DTSTAMP:20271214T033000Z
+DTSTART:20271214T033000Z
+DURATION:PT30M
+SUMMARY:【豪州】RBA 政策金利発表
+DESCRIPTION:https://www.rba.gov.au/schedules-events/calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:15ee93e1e424ece36ba03268e906c1e392055358@economic-calendar
+DTSTAMP:20271215T070000Z
+DTSTART:20271215T070000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: November 2027\nhttps://www.ons.
+ gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:958ed69e81e246eb7b6abbbf9b1ee3be77375eff@economic-calendar
+DTSTAMP:20271215T133000Z
+DTSTART:20271215T133000Z
+DURATION:PT30M
+SUMMARY:【米国】小売売上高
+DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
+ tml
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5213e11293825252fe474181f269adf5ac6d53d3@economic-calendar
+DTSTAMP:20271216T083000Z
+DTSTART:20271216T083000Z
+DURATION:PT30M
+SUMMARY:【スイス】SNB 政策金利発表
+DESCRIPTION:https://www.snb.ch/en/services-events/digital-services/event-s
+ chedule
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:712961ec1234c6894f1b9cee00fdfc1b2219194e@economic-calendar
+DTSTAMP:20271216T120000Z
+DTSTART:20271216T120000Z
+DURATION:PT30M
+SUMMARY:【英国】BoE 政策金利発表
+DESCRIPTION:12:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.bankofengland.co.uk/monetary-policy/upcoming-mpc-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0331aee066298ca2de0a3ff84637703fabd7c1c8@economic-calendar
+DTSTAMP:20271216T131500Z
+DTSTART:20271216T131500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:685029f5f3579e9e944bbedac2f19c7dcaa89c0b@economic-calendar
+DTSTAMP:20271217T000000Z
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+SUMMARY:【日本】日銀 金融政策決定会合（結果公表）
+DESCRIPTION:公表時刻は会合ごとに異なるため終日予定\nhtt
+ ps://www.boj.or.jp/mopo/mpmsche_minu/index.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d65f88a3efa1451196cfe4c079921fdbb972f9b5@economic-calendar
+DTSTAMP:20271222T133000Z
+DTSTART:20271222T133000Z
+DURATION:PT30M
+SUMMARY:【米国】GDP
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State 
+ GDP\, and State Personal Income\, 3rd Quarter 2027\nhttps://www.bea.gov/n
+ ews/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ce6b3f7c7b36821af285966dcb061d129de73878@economic-calendar
+DTSTAMP:20271222T133000Z
+DTSTART:20271222T133000Z
+DURATION:PT30M
+SUMMARY:【米国】個人所得・支出（PCE）
+DESCRIPTION:Personal Income and Outlays\, November 2027\nhttps://www.bea.g
+ ov/news/schedule/ics/online-calendar-subscription.ics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a5524390fa961fbe3d75d73f00638249930a3792@economic-calendar
+DTSTAMP:20280114T070000Z
+DTSTART:20280114T070000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: November 2027\nhttps://www.ons.gov.
+ uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d4957b2236ed2e994692188e368df99e18973272@economic-calendar
+DTSTAMP:20280119T070000Z
+DTSTART:20280119T070000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: December 2027\nhttps://www.ons.
+ gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fdfba20b7439fef35c8f6a3dfe1ac870190ec9c5@economic-calendar
+DTSTAMP:20280203T131500Z
+DTSTART:20280203T131500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:004f74aae16fe96579d42237d4d017b8d5d58fed@economic-calendar
+DTSTAMP:20280217T070000Z
+DTSTART:20280217T070000Z
+DURATION:PT30M
+SUMMARY:【英国】月次GDP
+DESCRIPTION:GDP monthly estimate\, UK: December 2027\nhttps://www.ons.gov.
+ uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1a6280a316ebc1063656b980773815ad9b0e012d@economic-calendar
+DTSTAMP:20280323T131500Z
+DTSTART:20280323T131500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fbb70b669fe343c3b55c337c0c15f64e358eb352@economic-calendar
+DTSTAMP:20280419T060000Z
+DTSTART:20280419T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: March 2028\nhttps://www.ons.gov
+ .uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:383a72b70da651888dcbd3531c19d174ea3e94ec@economic-calendar
+DTSTAMP:20280504T121500Z
+DTSTART:20280504T121500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f5ea9f1c0c772559156b63261f1a06d3c2544a66@economic-calendar
+DTSTAMP:20280608T121500Z
+DTSTART:20280608T121500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1c86f0699cb110395cada441c29d8a5e93698e69@economic-calendar
+DTSTAMP:20280621T060000Z
+DTSTART:20280621T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: May 2028\nhttps://www.ons.gov.u
+ k/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:00f2e580000da9ff099d61ba2a42f6247d6b46eb@economic-calendar
+DTSTAMP:20280720T121500Z
+DTSTART:20280720T121500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:972724fe0200920e0586d1ff07ce8cf3eef70ea2@economic-calendar
+DTSTAMP:20280816T060000Z
+DTSTART:20280816T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: July 2028\nhttps://www.ons.gov.
+ uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93c329e9445c72aabc29ab5325ba29d0a7c130e5@economic-calendar
+DTSTAMP:20280907T121500Z
+DTSTART:20280907T121500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1ba74ff7e9416122979f8ac775a5380cd690247d@economic-calendar
+DTSTAMP:20281012T121500Z
+DTSTART:20281012T121500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:857466af60a3077e67a6b538ed20129064c4ef1a@economic-calendar
+DTSTAMP:20281018T060000Z
+DTSTART:20281018T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: September 2028\nhttps://www.ons
+ .gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:800b56ee1b9c9693c266f21717960d77586b17f0@economic-calendar
+DTSTAMP:20281115T070000Z
+DTSTART:20281115T070000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: October 2028\nhttps://www.ons.g
+ ov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b382e7aff4fe0c8309026e61d9a339b71a64788@economic-calendar
+DTSTAMP:20281207T131500Z
+DTSTART:20281207T131500Z
+DURATION:PT30M
+SUMMARY:【ユーロ圏】ECB 政策金利発表
+DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ddabf98f768e50e4bc2f0884ccdf8f227f339ad9@economic-calendar
+DTSTAMP:20290117T073000Z
+DTSTART:20290117T073000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: December 2028\nhttps://www.ons.
+ gov.uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
