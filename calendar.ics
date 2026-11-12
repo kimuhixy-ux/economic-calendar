@@ -2100,6 +2100,16 @@ DESCRIPTION:Consumer price inflation\, UK: May 2028\nhttps://www.ons.gov.u
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:7a6adb41ca4c66501c88dce5e51b7f216369f5f9@economic-calendar
+DTSTAMP:20280719T060000Z
+DTSTART:20280719T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: June 2028\nhttps://www.ons.gov.
+ uk/releasecalendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:00f2e580000da9ff099d61ba2a42f6247d6b46eb@economic-calendar
 DTSTAMP:20280720T121500Z
 DTSTART:20280720T121500Z
@@ -2127,6 +2137,16 @@ DURATION:PT30M
 SUMMARY:【ユーロ圏】ECB 政策金利発表
 DESCRIPTION:14:15は例年の時刻（公式日程に時刻の記載なし
  ）\nhttps://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c222fce525b32926a942dae23798edf631ac2524@economic-calendar
+DTSTAMP:20280920T060000Z
+DTSTART:20280920T060000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: August 2028\nhttps://www.ons.go
+ v.uk/releasecalendar
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2187,6 +2207,16 @@ DURATION:PT30M
 SUMMARY:【スイス】SNB 政策金利発表
 DESCRIPTION:https://www.snb.ch/en/services-events/digital-services/event-s
  chedule
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:29e9a629be83852233a3270a0a871489f9ddfc49@economic-calendar
+DTSTAMP:20281220T070000Z
+DTSTART:20281220T070000Z
+DURATION:PT30M
+SUMMARY:【英国】消費者物価指数（CPI）
+DESCRIPTION:Consumer price inflation\, UK: November 2028\nhttps://www.ons.
+ gov.uk/releasecalendar
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
