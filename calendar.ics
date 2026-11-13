@@ -510,6 +510,16 @@ DESCRIPTION:https://www.census.gov/economic-indicators/calendar-listview.h
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:9e28ac3677f86c3b1fe8625a07c0460dc90b304d@economic-calendar
+DTSTAMP:20270119T070000Z
+DTSTART:20270119T070000Z
+DURATION:PT30M
+SUMMARY:【英国】雇用統計
+DESCRIPTION:UK Labour Market: January 2027\nhttps://www.ons.gov.uk/release
+ calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:b2be0259b0dc9a623cd531d1bc4a39334d90df4b@economic-calendar
 DTSTAMP:20270120T070000Z
 DTSTART:20270120T070000Z
@@ -830,9 +840,8 @@ DTSTAMP:20270317T180000Z
 DTSTART:20270317T180000Z
 DURATION:PT30M
 SUMMARY:【米国】FOMC 政策金利発表
-DESCRIPTION:経済見通し（SEP）あり。14:00は例年の時刻（公
- 式日程に時刻の記載なし）\nhttps://www.federalreserve.gov/mone
- tarypolicy/fomccalendars.htm
+DESCRIPTION:14:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1198,9 +1207,8 @@ DTSTAMP:20270609T180000Z
 DTSTART:20270609T180000Z
 DURATION:PT30M
 SUMMARY:【米国】FOMC 政策金利発表
-DESCRIPTION:経済見通し（SEP）あり。14:00は例年の時刻（公
- 式日程に時刻の記載なし）\nhttps://www.federalreserve.gov/mone
- tarypolicy/fomccalendars.htm
+DESCRIPTION:14:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1570,9 +1578,8 @@ DTSTAMP:20270915T180000Z
 DTSTART:20270915T180000Z
 DURATION:PT30M
 SUMMARY:【米国】FOMC 政策金利発表
-DESCRIPTION:経済見通し（SEP）あり。14:00は例年の時刻（公
- 式日程に時刻の記載なし）\nhttps://www.federalreserve.gov/mone
- tarypolicy/fomccalendars.htm
+DESCRIPTION:14:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1837,6 +1844,16 @@ DESCRIPTION:Consumer price inflation\, UK: October 2027\nhttps://www.ons.g
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:e6218d945c2459093234899b7067a38882d45850@economic-calendar
+DTSTAMP:20271117T190000Z
+DTSTART:20271117T190000Z
+DURATION:PT30M
+SUMMARY:【米国】FOMC 政策金利発表
+DESCRIPTION:14:00は例年の時刻（公式日程に時刻の記載なし
+ ）\nhttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:9673a6135600790a6196e5206ba7410263a7f6a2@economic-calendar
 DTSTAMP:20271124T133000Z
 DTSTART:20271124T133000Z
@@ -1876,17 +1893,6 @@ SUMMARY:【カナダ】BoC 政策金利発表
 DESCRIPTION:9:45は例年の時刻（公式日程に時刻の記載なし
  ）\nhttps://www.bankofcanada.ca/core-functions/monetary-policy/key-inter
  est-rate/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:c27375b20a378c0336a8a86803b274d014411010@economic-calendar
-DTSTAMP:20271208T190000Z
-DTSTART:20271208T190000Z
-DURATION:PT30M
-SUMMARY:【米国】FOMC 政策金利発表
-DESCRIPTION:経済見通し（SEP）あり。14:00は例年の時刻（公
- 式日程に時刻の記載なし）\nhttps://www.federalreserve.gov/mone
- tarypolicy/fomccalendars.htm
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

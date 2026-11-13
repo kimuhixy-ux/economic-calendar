@@ -462,6 +462,15 @@
   },
   {
    "region": "英国",
+   "label": "雇用統計",
+   "start": "2027-01-19T07:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.ons.gov.uk/releasecalendar",
+   "note": "UK Labour Market: January 2027",
+   "source": "ons"
+  },
+  {
+   "region": "英国",
    "label": "消費者物価指数（CPI）",
    "start": "2027-01-20T07:00:00Z",
    "allDay": false,
@@ -754,7 +763,7 @@
    "start": "2027-03-17T18:00:00Z",
    "allDay": false,
    "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-   "note": "経済見通し（SEP）あり。14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "note": "14:00は例年の時刻（公式日程に時刻の記載なし）",
    "source": "fomc"
   },
   {
@@ -1087,7 +1096,7 @@
    "start": "2027-06-09T18:00:00Z",
    "allDay": false,
    "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-   "note": "経済見通し（SEP）あり。14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "note": "14:00は例年の時刻（公式日程に時刻の記載なし）",
    "source": "fomc"
   },
   {
@@ -1420,7 +1429,7 @@
    "start": "2027-09-15T18:00:00Z",
    "allDay": false,
    "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-   "note": "経済見通し（SEP）あり。14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "note": "14:00は例年の時刻（公式日程に時刻の記載なし）",
    "source": "fomc"
   },
   {
@@ -1659,6 +1668,15 @@
   },
   {
    "region": "米国",
+   "label": "FOMC 政策金利発表",
+   "start": "2027-11-17T19:00:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "note": "14:00は例年の時刻（公式日程に時刻の記載なし）",
+   "source": "fomc"
+  },
+  {
+   "region": "米国",
    "label": "GDP",
    "start": "2027-11-24T13:30:00Z",
    "allDay": false,
@@ -1692,15 +1710,6 @@
    "sourceUrl": "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/",
    "note": "9:45は例年の時刻（公式日程に時刻の記載なし）",
    "source": "boc"
-  },
-  {
-   "region": "米国",
-   "label": "FOMC 政策金利発表",
-   "start": "2027-12-08T19:00:00Z",
-   "allDay": false,
-   "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-   "note": "経済見通し（SEP）あり。14:00は例年の時刻（公式日程に時刻の記載なし）",
-   "source": "fomc"
   },
   {
    "region": "英国",
