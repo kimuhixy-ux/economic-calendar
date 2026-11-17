@@ -1091,6 +1091,15 @@
    "source": "boc"
   },
   {
+   "region": "日本",
+   "label": "GDP速報",
+   "start": "2027-06-07T23:50:00Z",
+   "allDay": false,
+   "sourceUrl": "https://www.esri.cao.go.jp/jp/sna/kouhyou/kouhyou_top.html",
+   "note": "2027年1-3月期（2次速報）",
+   "source": "japan-gdp"
+  },
+  {
    "region": "米国",
    "label": "FOMC 政策金利発表",
    "start": "2027-06-09T18:00:00Z",
