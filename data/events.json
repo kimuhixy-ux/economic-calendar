@@ -1,5 +1,7 @@
 {
- "failedSources": [],
+ "failedSources": [
+  "statcan"
+ ],
  "events": [
   {
    "region": "ユーロ圏",
